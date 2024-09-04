@@ -8,7 +8,7 @@ export default function Home() {
       <Menu />
       <section className="mt-10">
         <h2 className="text-lg flex justify-center font-bold">Olá e bem-vindo!</h2>
-        <p className="text-md flex items-center">Estamos empolgados em tê-lo conosco. Aqui, na nossa página inicial, você encontrará uma visão geral do que temos a oferecer e como podemos ajudá-lo a alcançar seus objetivos.</p>
+        <p className="text-md flex items-center justify-center">Estamos empolgados em tê-lo conosco. Aqui, na nossa página inicial, você encontrará uma visão geral do que temos a oferecer e como podemos ajudá-lo a alcançar seus objetivos.</p>
       </section>
 
       <section className="mt-10">
